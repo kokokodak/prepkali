@@ -107,8 +107,9 @@ function print_end {
     echo "[+] set flameshot as screenshoting tool"
     echo "[+] change hotkeys in terminal to ctrl+tab and ctrl+shift+tab for tab movement"
     echo "[+] sudo neo4j start; then open localhost:7474 and set it up"
+    echo "[+] set up pyenv with https://www.kali.org/docs/general-use/using-eol-python-versions/"
 
-    echo "[i] emacs - M-x dired-sidebar-show"
+    echo "[-] emacs - M-x dired-sidebar-show"
 }
 
 
