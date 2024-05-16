@@ -106,7 +106,9 @@ EOF
 function print_end {
     echo "[+] set flameshot as screenshoting tool"
     echo "[+] change hotkeys in terminal to ctrl+tab and ctrl+shift+tab for tab movement"
-    echo "[+] emacs - M-x dired-sidebar-show"
+    echo "[+] sudo neo4j start; then open localhost:7474 and set it up"
+
+    echo "[i] emacs - M-x dired-sidebar-show"
 }
 
 
